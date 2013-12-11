@@ -1,6 +1,6 @@
 # A simple iOS douban fm app
 
-douban fm API by :[doubanfm-qt](https://github.com/zonyitoo/doubanfm-qt "doubanfm-qt")
+douban fm API by :[doubanfm-qt](https://github.com/zonyitoo/doubanfm-qt/wiki/%E8%B1%86%E7%93%A3FM-API "doubanfm-qt")
 
 use a stream audio player :[audjustable](https://github.com/tumtumtum/audjustable "audjustable")
 
